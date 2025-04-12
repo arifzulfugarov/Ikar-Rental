@@ -1,0 +1,8 @@
+[
+    {
+        "fullName":"Admin",
+        "email":"admin@ikarrental.hu",
+        "password":"admin",
+        "isAdmin":true
+    }
+]
