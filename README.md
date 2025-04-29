@@ -37,6 +37,24 @@ This project was created as part of the Web Programming – PHP Assignment at EL
 - SQLite (data storage)
 - Bootstrap (for responsive, mobile-friendly design)
 
+- ## 🚀 Dockerized Setup
+
+This project is fully containerized using Docker and Docker Compose.
+
+### 🧱 Services:
+- **Web**: Apache + PHP 8.2 (custom Dockerfile)
+- **Database**: MySQL 8.0 (with preset user and DB)
+- **Optional**: phpMyAdmin (GUI for MySQL access)
+
+### 🛠️ How to Run
+
+1. Make sure [Docker Desktop](https://www.docker.com/products/docker-desktop) is installed and running.
+2. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Ikar-Rental.git
+   cd Ikar-Rental
+
+
 ## 🗄️ Data Models
 
 ### Car
